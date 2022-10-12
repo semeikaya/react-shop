@@ -1,0 +1,8 @@
+.primary {
+    font-family: 'Gilroy';
+    box-sizing: border-box;
+    display: flex;
+padding: 24px;
+    width: 1440px;
+    margin: auto;
+}
